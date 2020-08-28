@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bumpkinnnnn.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-28T05:40:13.628Z</updated>
+    <title>bumpkinnnnn blog</title>
+    <updated>2020-08-28T05:48:45.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bumpkinnnnn.github.io"/>
     <link rel="self" href="https://bumpkinnnnn.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>now or never</subtitle>
     <logo>https://bumpkinnnnn.github.io/images/avatar.png</logo>
     <icon>https://bumpkinnnnn.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, bumpkinnnnn blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://bumpkinnnnn.github.io/post/hello-gridea/</id>
